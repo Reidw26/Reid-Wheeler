@@ -6,4 +6,5 @@ Learn more about me using these links
 *[Hobbies](./hobby.md)
 *[Employment](./employment.md)
 *[Code Block](./codeblock.md)
-![Mizzou image](https://user-images.githubusercontent.com/92944843/138349159-1c575e00-56c6-4d06-8ee5-7490ba7f0f43.jpeg)
+
+![CAFNRHeadshot-70](https://user-images.githubusercontent.com/92944843/138349364-e8bec400-c491-43a4-a39b-78e78f813423.JPG)
